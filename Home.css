@@ -376,12 +376,13 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 804px;
+    min-height: 2048px;
   }
 
   .u-section-1 .u-group-1 {
     width: 299px;
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-top: -20px;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-1 .u-group-2 {
@@ -396,15 +397,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 517px;
+    width: 390px;
+    height: 511px;
     object-position: 73.14% 50%;
-    margin-right: auto;
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-top: -1067px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-list-1 {
     width: 340px;
+    margin-top: 237px;
     margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 } .u-section-2 {
